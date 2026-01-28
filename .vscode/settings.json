@@ -1,0 +1,15 @@
+{
+  "github.copilot.chat.tools.enabled": {
+    "agent": true,
+    "edit": true,
+    "execute": true,
+    "read": true,
+    "search": true,
+    "todo": true,
+    "vscode": true,
+    "web": true,
+    "microsoft/markitdown": {
+      "convert_to_markdown": true
+    }
+  }
+}
