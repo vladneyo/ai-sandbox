@@ -11,5 +11,6 @@ A living list of useful links, tools, and references.
 
 ## VS Code Extensions
 
-- **Markdown Mermaid** — Renders Mermaid diagrams inside Markdown Preview.
-  - Marketplace: https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid
+- **Markdown Mermaid** - https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid
+
+- **Pulumi Copilot** - https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-vscode-copilot
