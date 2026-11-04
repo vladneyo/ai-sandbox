@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Code Review"
+  short_description: "Evidence-based Rust correctness and merge-risk review"
+  default_prompt: "Use $rust-code-review to assess this Rust change and report actionable findings first."

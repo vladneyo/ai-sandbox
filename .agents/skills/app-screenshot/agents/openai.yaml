@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Screenshots"
+  short_description: "Bounded native macOS app screenshot evidence"
+  default_prompt: "Use $app-screenshot to capture and inspect a native macOS application screenshot."

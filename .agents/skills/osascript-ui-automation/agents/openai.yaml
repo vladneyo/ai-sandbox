@@ -1,0 +1,4 @@
+interface:
+  display_name: "AppleScript UI Automation"
+  short_description: "Verify native macOS UI state and window geometry"
+  default_prompt: "Use $osascript-ui-automation to verify this native macOS UI transition."

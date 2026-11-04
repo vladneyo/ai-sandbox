@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concilium"
+  short_description: "Independent proposals and scored technical decisions"
+  default_prompt: "Use $concilium to build an evidence-backed decision brief for this problem."

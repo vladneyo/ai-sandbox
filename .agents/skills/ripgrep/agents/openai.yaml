@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ripgrep"
+  short_description: "Scoped text search with useful source locations"
+  default_prompt: "Use $ripgrep to search this repository with scoped paths and concise output."
