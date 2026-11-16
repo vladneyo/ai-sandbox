@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Mutation Testing"
+  short_description: "Find and close test gaps with cargo-mutants"
+  default_prompt: "Use $rust-mutation-testing to find code in this Rust project that the tests do not really check, and report the missed mutants."
