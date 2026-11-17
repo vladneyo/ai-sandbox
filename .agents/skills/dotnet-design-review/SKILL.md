@@ -8,6 +8,10 @@ description: >-
   flows, and pre-implementation design decisions. Produce evidence-based,
   context-sensitive recommendations with measurable quality attributes and
   lightweight scoring rather than applying patterns mechanically.
+license: MIT
+metadata:
+  author: "Vladyslav Neichev (@vladneyo)"
+  origin: compiled
 ---
 
 # .NET/C# Design Pattern Review

@@ -9,6 +9,10 @@ description: >-
   coverage, to act on `cargo mutants` output or a `mutants.out` directory, to
   check the tests for a diff or pull request, or to tune, speed up, or debug a
   cargo-mutants run. Not for other languages, fuzzing, or coverage reports.
+license: MIT
+metadata:
+  author: "Vladyslav Neichev (@vladneyo)"
+  origin: compiled
 ---
 
 # Rust Mutation Testing

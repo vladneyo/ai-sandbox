@@ -1,6 +1,10 @@
 ---
 name: rust-code-review
 description: Review Rust changes, pull requests, and refactors for correctness, ownership, error handling, memory safety, performance, architecture, API compatibility, and meaningful tests. Use for a requested Rust review or pre-merge assessment; apply project extensions and contextual style references.
+license: MIT
+metadata:
+  author: "Vladyslav Neichev (@vladneyo)"
+  origin: compiled
 ---
 
 # Rust Code Review

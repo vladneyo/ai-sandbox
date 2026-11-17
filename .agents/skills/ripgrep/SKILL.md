@@ -1,6 +1,10 @@
 ---
 name: ripgrep
 description: Search source trees and command output efficiently with ripgrep, using scoped paths, literal or regex matching, explicit line numbers, file filters, and bounded output. Use when running rg from a shell or choosing a text-search command.
+license: MIT
+metadata:
+  author: "Vladyslav Neichev (@vladneyo)"
+  origin: original
 ---
 
 # Ripgrep

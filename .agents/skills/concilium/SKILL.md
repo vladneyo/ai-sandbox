@@ -1,6 +1,10 @@
 ---
 name: concilium
 description: Run a structured multi-agent technical decision process with independent proposals, project-specific measurements, peer scoring, and verification. Use for complex decisions that need explicit assessment of functional logic, algorithms, performance, memory, UI, IPC or network overhead, security, and architecture where applicable.
+license: MIT
+metadata:
+  author: "Vladyslav Neichev (@vladneyo)"
+  origin: original
 ---
 
 # Concilium

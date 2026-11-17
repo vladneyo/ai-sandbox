@@ -1,6 +1,10 @@
 ---
 name: app-screenshot
 description: Capture native macOS application screenshots with process readiness, warm-up, display or window selection, bounded repeats, and optional owned launch and cleanup. Use for native UI evidence and visual inspection of a running macOS app.
+license: MIT
+metadata:
+  author: "Vladyslav Neichev (@vladneyo)"
+  origin: original
 ---
 
 # Native macOS App Screenshots

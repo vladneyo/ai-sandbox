@@ -1,6 +1,10 @@
 ---
 name: osascript-ui-automation
 description: Drive and verify native macOS application UI transitions with osascript and System Events, including named controls, focus, window placement, fullscreen transitions, and display geometry. Use when native state or interaction must be verified beyond a screenshot.
+license: MIT
+metadata:
+  author: "Vladyslav Neichev (@vladneyo)"
+  origin: original
 ---
 
 # AppleScript UI Automation
